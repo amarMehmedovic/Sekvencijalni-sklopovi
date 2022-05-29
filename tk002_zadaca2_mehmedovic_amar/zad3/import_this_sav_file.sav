@@ -1,0 +1,29 @@
+[*]
+[*] GTKWave Analyzer v3.3.111 (w)1999-2020 BSI
+[*] Fri May 27 19:26:26 2022
+[*]
+[dumpfile] "/home/arch/sekv_Sklopovi/zadaca_1/zadatak3/top.vcd"
+[dumpfile_mtime] "Fri May 27 19:22:58 2022"
+[dumpfile_size] 7795
+[savefile] "/home/arch/sekv_Sklopovi/zadaca_1/zadatak3/import_this_sav_file.sav"
+[timestart] 0
+[size] 1920 1052
+[pos] -460 -206
+*-28.000000 1068000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top_tb.
+[sst_width] 252
+[signals_width] 147
+[sst_expanded] 1
+[sst_vpaned_height] 578
+@28
+top_tb.uart.fclk
+@22
+top_tb.uart.data[7:0]
+@28
+top_tb.uart.dtx
+top_tb.uart.tled
+top_tb.uart.led
+@29
+top_tb.uart.par[1:0]
+[pattern_trace] 1
+[pattern_trace] 0
