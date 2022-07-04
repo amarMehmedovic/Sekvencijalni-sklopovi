@@ -1,0 +1,32 @@
+[*]
+[*] GTKWave Analyzer v3.3.111 (w)1999-2020 BSI
+[*] Mon Jul  4 14:38:36 2022
+[*]
+[dumpfile] "/home/arch/sekv_Sklopovi/Zavrsni/Julski rok projekat/zad2/top.vcd"
+[dumpfile_mtime] "Mon Jul  4 14:27:13 2022"
+[dumpfile_size] 29655
+[savefile] "/home/arch/sekv_Sklopovi/Zavrsni/Julski rok projekat/zad2/autosav.sav"
+[timestart] 0
+[size] 1920 1017
+[pos] -1 -1
+*-29.757074 1020000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top_tb.
+[treeopen] top_tb.inst_top.
+[sst_width] 252
+[signals_width] 148
+[sst_expanded] 1
+[sst_vpaned_height] 260
+@28
+top_tb.fclk
+top_tb.drx
+top_tb.inst_top.dtx
+@22
+top_tb.inst_top.led[7:0]
+top_tb.inst_top.urdata[7:0]
+@28
+top_tb.inst_top.uwc
+top_tb.inst_top.uwi
+@29
+top_tb.inst_top.urc
+[pattern_trace] 1
+[pattern_trace] 0
